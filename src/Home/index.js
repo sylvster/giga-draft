@@ -4,6 +4,7 @@ import Button from '@mui/material/Button';
 import logo from '../Assets/clash-royale-logo.png'
 import text from '../Assets/clash-royale-text.png'
 import battle_button from '../Assets/battle-button.png'
+import React from 'react';
 
 export default function Home() {
     return (

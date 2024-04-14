@@ -845,19 +845,6 @@
         "is_evolved": false
     },
     {
-        "key": "mighty-miner",
-        "name": "Mighty Miner",
-        "sc_key": "MightyMiner",
-        "elixir": 4,
-        "type": "Troop",
-        "rarity": "Champion",
-        "arena": 17,
-        "description": "Walk softly ... and carry a big drill!\n\nThis Champion deals increasing Damage to his target and can switch lanes to escape combat or change attack plans.\n\nThis makes him not only the mightiest, but also the sneakiest Miner in the Arena.",
-        "id": 26000065,
-        "evolved_spells_sc_key": "",
-        "is_evolved": false
-    },
-    {
         "key": "elixir-golem",
         "name": "Elixir Golem",
         "sc_key": "ElixirGolem",
@@ -880,58 +867,6 @@
         "arena": 8,
         "description": "With each attack, she unleashes a powerful healing aura that restores Hitpoints to herself and friendly Troops. When she isn't attacking, she passively heals herself!",
         "id": 26000068,
-        "evolved_spells_sc_key": "",
-        "is_evolved": false
-    },
-    {
-        "key": "skeleton-king",
-        "name": "Skeleton King",
-        "sc_key": "SkeletonKing",
-        "elixir": 4,
-        "type": "Troop",
-        "rarity": "Champion",
-        "arena": 16,
-        "description": "The King of the undead himself. He sometimes feels lonely (could be due to his non flattering features) and will summon friends to join him in the battle even after death. Tough guys have feelings too!",
-        "id": 26000069,
-        "evolved_spells_sc_key": "",
-        "is_evolved": false
-    },
-    {
-        "key": "archer-queen",
-        "name": "Archer Queen",
-        "sc_key": "ArcherQueen",
-        "elixir": 5,
-        "type": "Troop",
-        "rarity": "Champion",
-        "arena": 17,
-        "description": "She is fast, deadly and hard to catch. Beware of her crossbow bolts and try not to blink - you might miss her!",
-        "id": 26000072,
-        "evolved_spells_sc_key": "",
-        "is_evolved": false
-    },
-    {
-        "key": "golden-knight",
-        "name": "Golden Knight",
-        "sc_key": "GoldenKnight",
-        "elixir": 4,
-        "type": "Troop",
-        "rarity": "Champion",
-        "arena": 16,
-        "description": "A warrior with luxurious hair and outstanding flexibility. Demonstrates his aerobics skills on demand.",
-        "id": 26000074,
-        "evolved_spells_sc_key": "",
-        "is_evolved": false
-    },
-    {
-        "key": "monk",
-        "name": "Monk",
-        "sc_key": "Monk",
-        "elixir": 5,
-        "type": "Troop",
-        "rarity": "Champion",
-        "arena": 18,
-        "description": "Monk has spent many isolated years perfecting a new style of combat.\n\nHe fires off a 3-hit combo, with the last blow dealing extra Damage and pushing enemies back!",
-        "id": 26000077,
         "evolved_spells_sc_key": "",
         "is_evolved": false
     },
@@ -984,19 +919,6 @@
         "arena": 13,
         "description": "He channels electricity through his Zap Pack, a unique device that stuns and damages any Troop attacking him within its range.\n\nDon't tell him that his finger guns aren't real! He'll zap you.",
         "id": 26000085,
-        "evolved_spells_sc_key": "",
-        "is_evolved": false
-    },
-    {
-        "key": "raging-prince",
-        "name": "Raging Prince",
-        "sc_key": "PrinceBuff",
-        "elixir": 5,
-        "type": "Troop",
-        "rarity": "Epic",
-        "arena": 7,
-        "description": "Don't let the little pony fool you. Once the Prince gets a running start, you WILL be trampled. Deals double damage once he gets charging.",
-        "id": 26000086,
         "evolved_spells_sc_key": "",
         "is_evolved": false
     },
